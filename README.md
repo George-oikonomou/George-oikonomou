@@ -50,7 +50,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/George-oikonomou/George-oikonomou/snake.yml/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/George-oikonomou/George-oikonomou/output/snake.svg" alt="Snake animation" />
 
 ###
 
