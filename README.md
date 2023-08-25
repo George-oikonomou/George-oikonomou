@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Greetings and Welcome?</h1>
 
 ###
 
-<p align="center">My name is George and I'm a backend dev from Greece</p>
+<p align="center">Greek backend developer based in Greece</p>
 
 ###
 
