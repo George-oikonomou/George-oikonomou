@@ -1,8 +1,5 @@
 <h1 align="center">Greetings and Welcome</h1>
-
-<div align="center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="george-oikonomou-b540a4290" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gr.linkedin.com/in/george-oikonomou-b540a4290?trk=profile-badge">George Oikonomou</a></div>
-              
-
+            
 ###
 
 <p align="center">Greek backend developer based in Greece</p>
@@ -10,6 +7,10 @@
 ###
 
 <div align="center">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="george-oikonomou-b540a4290" data-version="v1"><p>Click Below</p><a class="badge-base__link LI-simple-link" href="https://gr.linkedin.com/in/george-oikonomou-b540a4290?trk=profile-badge">George Oikonomou</a></div>
+<div><a href="https://www.workadu.com" >Software Developer At Workadu</a></div>
+
+
   <img height="170" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif"  />
 </div>
 
