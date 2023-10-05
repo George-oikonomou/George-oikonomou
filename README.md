@@ -1,6 +1,6 @@
 <h1 align="center">Greetings and Welcome</h1>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="george-oikonomou-b540a4290" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gr.linkedin.com/in/george-oikonomou-b540a4290?trk=profile-badge">George Oikonomou</a></div>
+<div align="center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="george-oikonomou-b540a4290" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gr.linkedin.com/in/george-oikonomou-b540a4290?trk=profile-badge">George Oikonomou</a></div>
               
 
 ###
