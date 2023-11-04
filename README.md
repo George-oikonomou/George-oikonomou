@@ -55,7 +55,13 @@
 ###
 [snake gif](https://github.com/George-oikonomou/George-oikonomou/blob/output/github-contribution-grid-snake.gif)
 <img src="https://raw.githubusercontent.com/George-oikonomou/George-oikonomou/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/George-oikonomou/George-oikonomou//output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/George-oikonomou/George-oikonomou/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/George-oikonomou/George-oikonomou/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 ###
 
 <div align="center">
