@@ -54,14 +54,13 @@
 
 ###
 
-<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/George-oikonomou/George-oikonomou//output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/George-oikonomou/George-oikonomou/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/George-oikonomou/George-oikonomou/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=George-oikonomou&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=38&order=3" height="160" alt="streak graph"  />
