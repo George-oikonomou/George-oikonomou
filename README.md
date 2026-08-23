@@ -60,8 +60,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/George-oikonomou/George-oikonomou/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/George-oikonomou/George-oikonomou/output/github-contribution-grid-snake.svg">
 </picture>
-<a href="https://git.io/streak-stats"><img src="https://github-streaks.fiedler.sh?user=George-Oikonomou&theme=shadow-green&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=George-Oikonomou&theme=transparent)](https://git.io/streak-stats)
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=George-oikonomou&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=38&order=3" height="160" alt="streak graph"  />
 </div>
